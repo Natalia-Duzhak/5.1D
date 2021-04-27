@@ -1,0 +1,51 @@
+﻿  Money.cpp
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Triad.h(41,10): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,117): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,106): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,95): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(12,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(16,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(21,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(27,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(33,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,225): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,202): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,179): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,155): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,130): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,105): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(38,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,225): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,202): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,179): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,155): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,130): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,105): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(44,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,331): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,297): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,263): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,229): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,193): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,157): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,121): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,83): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Money.cpp(51,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyException.cpp
+  Source.cpp
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Triad.h(41,10): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Source.cpp(10,12): warning C4101: N: неиспользованная локальная переменная
+  Triad.cpp
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Triad.h(41,10): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Project5.1D\Triad.cpp(91,182): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Создание кода...
+  Project5.1D.vcxproj -> C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1D\Debug\Project5.1D.exe
